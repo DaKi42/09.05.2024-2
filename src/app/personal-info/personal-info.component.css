@@ -1,0 +1,18 @@
+.personal-info-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .personal-info-container h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .personal-info-container p {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
